@@ -1,0 +1,12 @@
+{
+  "name": "jmespath",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jmespath": "^0.15.0"
+  },
+  "scripts": {
+    "start":"node app"
+  }
+}
